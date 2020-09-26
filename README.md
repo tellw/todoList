@@ -7,6 +7,7 @@
 - [ ] springboot+vue数据库表的增删改查可视化页面自动生成
 - [ ] 每日填报自动化
 - [ ] 博客的编辑按钮放在页面正上方
+- [ ] 网站提供[在线OCR服务](https://github.com/JaidedAI/EasyOCR)等
 
 ## 2020.9以前
 - [ ] mathAI项目识别高级数学公式算出结果
