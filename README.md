@@ -7,6 +7,7 @@
 - [x] 笔记本win10系统的恢复，以及ubuntu系统空间的收回
 - [x] 博客园上写pragmadev入门和趣味盒的博客
 - [ ] 博客园的样式——回到顶部及直达评论区
+- [ ] 研究在github网站搜索model出来的项目，例如[tensorflow/models](https://github.com/tensorflow/models)
 
 ## 2020.9
 - [ ] 北邮人论坛全局搜索引擎，判断所有帖子的有用程度，能够在有用帖子中通过搜索关键词找出来
