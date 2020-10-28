@@ -1,6 +1,8 @@
 # todoList
 放一些我想干的技术上的事
 
+## [2020.11](2020/11/README.md)
+
 ## 2020.10
 - [ ] 博客园中的代码块里代码超过10行折叠，不超过10行不折叠
 - [ ] 个人网站上布置Django提供随机定长字符串的生成
@@ -9,6 +11,7 @@
 - [ ] 博客园的样式——回到顶部及直达评论区
 - [ ] 研究在github网站搜索model出来的项目，例如[tensorflow/models](https://github.com/tensorflow/models)
 - [ ] [graduationDesign项目](https://github.com/tellw/graduationDesign)更新到最终完成的版本，文档markdown化，演示视频剪辑一下配上字幕做一下。
+- [ ] [TERSI-labelmkr项目](https://github.com/tellw/TERSI-labelmkr)增添移动到、复制到、重命名图片名称功能，修复截取图片后按取消闪退的bug。
 
 ## 2020.9
 - [ ] 北邮人论坛全局搜索引擎，判断所有帖子的有用程度，能够在有用帖子中通过搜索关键词找出来
