@@ -12,6 +12,7 @@
 - [ ] 研究在github网站搜索model出来的项目，例如[tensorflow/models](https://github.com/tensorflow/models)
 - [ ] [graduationDesign项目](https://github.com/tellw/graduationDesign)更新到最终完成的版本，文档markdown化，演示视频剪辑一下配上字幕做一下。
 - [ ] [TERSI-labelmkr项目](https://github.com/tellw/TERSI-labelmkr)增添移动到、复制到、重命名图片名称功能，修复截取图片后按取消闪退的bug。
+- [ ] 汇总所有写过的博客到[tellwblog项目](https://github.com/tellw/tellwblog)中
 
 ## 2020.9
 - [ ] 北邮人论坛全局搜索引擎，判断所有帖子的有用程度，能够在有用帖子中通过搜索关键词找出来
