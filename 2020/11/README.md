@@ -1,3 +1,4 @@
 - [ ] 服务器配上ipv6
 - [ ] **备份**阿虚储物间的所有内容到自己网站上
 - [ ] 构建一个语音转文本应用，参考：[5 款不错的开源语音识别/语音文字转换系统](https://zhuanlan.zhihu.com/p/70246657)
+- [ ] 探索音游：Cytus, osu!, Arcaea, Phigros, Dynamix和Frederic
