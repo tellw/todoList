@@ -2,4 +2,4 @@
 - [ ] **备份**阿虚储物间的所有内容到自己网站上
 - [ ] 构建一个语音转文本应用，参考：[5 款不错的开源语音识别/语音文字转换系统](https://zhuanlan.zhihu.com/p/70246657)
 - [ ] 探索音游：Cytus, osu!, Arcaea, Phigros, Dynamix和Frederic
-- [ ] TERSI-label加上持续学习的功能？实时地往训练集中添加标签，进行训练。
+- [ ] TERSI-labelmkr加上持续学习的功能？实时地往训练集中添加标签，进行训练。
