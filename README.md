@@ -1,6 +1,8 @@
 # todoList
 放一些我想干的技术上的事
 
+## [2020.12](2020/12/README.md)
+
 ## [2020.11](2020/11/README.md)
 
 ## 2020.10
@@ -20,7 +22,7 @@
 - [x] 在云服务器上搭建git，详见[在服务器上搭建git服务](https://www.cnblogs.com/tellw/p/13743495.html)
   - [ ] 使用gitlab搭建呢？
 - [ ] springboot+vue数据库表的增删改查可视化页面自动生成
-- [ ] 每日填报自动化
+- [x] 每日填报自动化，放弃该任务，因为填报还是人工做吧，这里面用到的聊天机器人需要我自己搞懂原理吧，不想调用别人的API
 - [ ] 博客的编辑按钮放在页面正上方
 - [ ] 网站提供[在线OCR服务](https://github.com/JaidedAI/EasyOCR)等
 - [ ] 优化[csdn博客批量导出工具](https://github.com/TonyChenn/BlogExportTool)
